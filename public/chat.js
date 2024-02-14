@@ -1,6 +1,6 @@
 //Make Connection
 
-var socket = io.connect('https://0.0.0.0:4000');
+var socket = io.connect('https://0.0.0.0:10000');
 
 // Query Dom
 var message = document.getElementById('message'),
